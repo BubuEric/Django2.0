@@ -1,2 +1,2 @@
-# Django2.0
-Django2.0学习
+＃抖音视频链接批量解析
+Douyin
